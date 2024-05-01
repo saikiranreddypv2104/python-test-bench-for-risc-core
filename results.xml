@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1714553460" />
+    <testcase name="R_type" classname="testBench" file="/home/sai/Desktop/Academics/SES_Project/RiscV/testBench.py" lineno="162" time="2.7016947269439697" sim_time_ns="101990000.001" ratio_time="37750379.043144636" />
+  </testsuite>
+</testsuites>
